@@ -1,0 +1,26 @@
+h1 {
+  font-family: "Host Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 800;
+  font-style: normal;
+}
+
+header{
+    margin-bottom: 40px;
+}
+
+.first{
+    max-width: 1300px;
+}
+
+p{
+    font-family: "Host Grotesk", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+a{
+    color: black;
+}
+
